@@ -1,158 +1,180 @@
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" alt="banner" />
 
-<br><br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Ankur+Pandey;Computer+Science+Engineer;Frontend+Developer;Python+Developer;Former+DRDO+Research+Intern;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Building+Practical+Software+Solutions+🚀" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineer;AI+%26+Machine+Learning+Enthusiast;Python+%7C+Deep+Learning+%7C+Computer+Vision;Former+DRDO+Research+Intern;Building+Practical%2C+Thoughtful+Solutions" alt="Typing SVG" />
+
+<br/>
+
+<a href="mailto:pandeyankur1405@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Ank77r">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Ank77r&label=Profile%20Views&color=00CFFF&style=flat-square" />
 
 </div>
 
-## 🚀 About Me
+<br/>
 
-- 🎓 Final Year B.Tech Computer Science Engineering Student
-- 💻 Frontend Developer passionate about modern, responsive and user-friendly web applications.
-- 🐍 Python Developer who enjoys building practical software and automation tools.
-- 🤖 Exploring **Machine Learning** and **Reinforcement Learning** through real-world projects.
-- 🛰️ Former **DRDO Research Intern**.
-- 🎨 Passionate about **UI/UX**, **3D Design**, and creating polished digital experiences.
-- 🌱 Currently expanding my skills in Full-Stack Development and AI.
+## 🧭 About Me
 
----
+I'm a final-year Computer Science engineering student who enjoys building intelligent systems that solve real problems — not just demo well, but hold up under scrutiny. My work sits at the intersection of **AI/ML**, **software engineering**, and **product thinking**: I like taking an idea from a rough concept to a working, well-designed system.
+
+I care about craftsmanship as much as correctness — clean code, thoughtful UI, and systems that are genuinely usable, not just functional.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Currently**
+- Final-year B.Tech in Computer Science
+- Exploring Deep Learning, Reinforcement Learning & Generative AI
+- Sharpening UI/UX and 3D design skills alongside core ML work
+
+</td>
+<td width="50%" valign="top">
+
+**🛰️ Background**
+- Former DRDO Research Intern
+- Built AI/ML systems across computer vision & NLP
+- Active in national-level hackathons
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js"/>
-</p>
+<div align="center">
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,firebase,mysql,postgres,vscode,blender,tensorflow,pytorch,opencv&theme=dark" />
 
-### Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/>
-</p>
+</div>
 
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,figma"/>
-</p>
+<br/>
 
-### Currently Exploring
-<p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=for-the-badge" />
+**Languages**
+Python · C++ · Java · JavaScript
 
-</p>
+</td>
+<td valign="top" width="33%">
 
----
+**AI / ML**
+TensorFlow · PyTorch · OpenCV
 
-## 📊 GitHub Analytics
+</td>
+<td valign="top" width="33%">
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ank77r&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank77r&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Tools & Platforms**
+Git · GitHub · Firebase · PostgreSQL · MySQL · VS Code · Blender
 
-<p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Ank77r&theme=tokyonight&hide_border=true"/>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ank77r&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 📚 BookVerse
-> A modern online novel reading platform with Firebase authentication, cloud synchronization and an immersive UI.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** `HTML` `CSS` `JavaScript` `Firebase`
+### 📘 BookVerse
+A modern reading platform built for an immersive reading experience — real-time cloud sync, refined UI, and a focus on making digital reading feel less clinical.
 
-🔗 https://github.com/Ank77r/Bookverse-1.0
+</td>
+<td width="50%" valign="top">
 
----
+### 🧠 AI Smart Forensic Sketch Generator
+A deep learning system that generates facial sketches through intelligent image synthesis — applying computer vision to a genuinely practical forensic use case.
 
-### 🤖 AI Smart Forensic Sketch Generator
-> AI-assisted facial sketch generation project built for research purposes.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** `Python` `Machine Learning`
+### 🤖 Discord Fixtures Bot
+A Discord bot that automates sports fixture generation and tournament scheduling, removing a tedious manual process for community organizers.
 
-🔗 https://github.com/Ank77r/AI-forensic-sketching
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎤 Voice Recognition AI
-> Speech recognition application developed in Python.
+A Python-based voice recognition system focused on speech understanding and natural, intelligent interaction.
 
-**Tech:** `Python`
+</td>
+</tr>
+</table>
 
-🔗 https://github.com/Ank77r/Voice-Recognition-AI
+<br/>
 
----
+## 🏆 Experience & Achievements
 
-### ⚽ Discord Fixtures Bot
-> Generates tournament fixtures and schedules automatically.
+- 🧪 **Former DRDO Research Intern** — contributed to applied research in a defense R&D setting
+- 🏅 Active participant in national-level hackathons and tech competitions
+- 💡 Focused on applying AI to real-world, high-stakes problems rather than toy examples
+- 🎯 Consistently pairs technical depth with careful attention to design and usability
 
-**Tech:** `Python`
+<br/>
 
-🔗 https://github.com/Ank77r/Discord-Fixtures-Bot
+## 📊 GitHub Stats
 
----
+<div align="center">
 
-## 🏆 Achievements
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ank77r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ank77r&layout=compact&theme=tokyonight&hide_border=true" />
 
-- 🛰️ Former **DRDO Research Intern**
-- 📄 Research Paper Contributor
-- 🎨 Graphic Head
-- 💻 Built multiple software projects
-- 🏸 College Badminton & Chess Representative
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ank77r&theme=tokyonight&hide_border=true" />
 
-## 🌐 Connect With Me
+<br/>
 
-<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ank77r&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-<a href="https://github.com/Ank77r">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:pandeyankur1405@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
-<a href="(https://www.linkedin.com/in/777-ankur-pandey/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 📈 Contribution Activity
 
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ank77r&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br/>
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 💡 Quote
-
-*"Turning ideas into practical software, one project at a time."*
-
-⭐ If you like my work, consider starring my repositories!
+*"Turning ideas into intelligent systems, one thoughtful solution at a time."*
 
 </div>
