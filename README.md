@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://github.com/Ank77r/Ank77r/blob/main/assets/banner.png)" width="100%" />
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" />
 
 # 👋 Hello, I'm Ankur Pandey
 
