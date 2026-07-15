@@ -1,0 +1,49 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7f8fc"/>
+      <stop offset="50%" stop-color="#eef0fb"/>
+      <stop offset="100%" stop-color="#e7f6fb"/>
+    </linearGradient>
+    <linearGradient id="textGradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <pattern id="gridL" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0a0e27" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <clipPath id="typeClipL">
+      <rect x="0" y="0" height="34" width="0">
+        <animate attributeName="width" values="0;640;640;0;0" keyTimes="0;0.35;0.6;0.68;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgL)"/>
+  <rect width="1200" height="300" fill="url(#gridL)"/>
+
+  <g transform="translate(140,150)">
+    <polygon points="0,-55 48,-27 48,27 0,55 -48,27 -48,-27" fill="none" stroke="url(#textGradL)" stroke-width="2.5" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="8" text-anchor="middle" font-family="Consolas, monospace" font-size="24" fill="url(#textGradL)">&lt;/&gt;</text>
+  </g>
+
+  <g transform="translate(1060,150)">
+    <polygon points="0,-55 48,-27 48,27 0,55 -48,27 -48,-27" fill="none" stroke="url(#textGradL)" stroke-width="2.5" opacity="0.9">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="16s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="7" text-anchor="middle" font-family="Consolas, monospace" font-size="20" fill="url(#textGradL)">AI</text>
+  </g>
+
+  <text x="600" y="128" text-anchor="middle" font-family="'Poppins','Segoe UI',sans-serif" font-weight="700" font-size="50" fill="url(#textGradL)">Ankur Pandey</text>
+
+  <rect x="480" y="148" width="240" height="3" rx="1.5" fill="url(#textGradL)"/>
+
+  <g clip-path="url(#typeClipL)">
+    <text x="280" y="200" font-family="'Fira Code',Consolas,monospace" font-size="22" fill="#334155">Computer Science Engineer · AI/ML · Builder</text>
+  </g>
+  <rect x="280" y="178" width="3" height="24" fill="#6d28d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
