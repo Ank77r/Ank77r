@@ -2,13 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" />
 
-# 👋 Hello, I'm Ankur Pandey
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00CFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Frontend+Developer;Python+Developer;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Former+DRDO+Research+Intern;Building+Practical+Software+Solutions+🚀" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=Ank77r&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
-</p>
+<img src="<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Frontend+Developer;Python+Developer;Former+DRDO+Research+Intern;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Building+Practical+Software+Solutions+🚀" />" />
 
 </div>
 
