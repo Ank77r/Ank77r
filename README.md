@@ -139,3 +139,11 @@ Speech recognition project built using Python.
 > *"Turning ideas into intelligent systems, one project at a time."*
 
 </div>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/output/github-contribution-grid-snake-dark.svg">
+
+</p>
