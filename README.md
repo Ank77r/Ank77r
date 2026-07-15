@@ -1,12 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner-light.svg">
-  <img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner-dark.svg" width="100%" alt="Ankur Pandey" />
-</picture>
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" alt="Ankur Pandey" />
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/tagline.svg" width="100%" alt="tagline" />
+
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/status-bar.svg" alt="status" />
+
+<br/>
 
 <a href="mailto:pandeyankur1405@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,11 +20,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-00CFFF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-7F5AF0?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-00CFFF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-7F5AF0?style=flat-square&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=Ank77r&label=Profile%20Views&color=7F5AF0&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Ank77r?style=flat-square&color=00CFFF&label=Followers&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/last-commit/Ank77r/Ank77r?style=flat-square&color=7F5AF0&label=Last%20Active" />
+<img src="https://komarev.com/ghpvc/?username=Ank77r&label=Profile%20Views&color=00CFFF&style=flat-square" />
 
 </div>
 
@@ -174,10 +172,12 @@ A Python-based voice recognition system focused on speech understanding and natu
 <img src="https://raw.githubusercontent.com/Ank77r/Ank77r/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/divider.svg" width="100%" />
-
 <div align="center">
 
 **Let's build something intelligent together.**
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/wave-footer.svg" width="100%" alt="wave" />
