@@ -76,7 +76,7 @@ I'm a final-year Computer Science engineering student who builds systems that ar
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,firebase,mysql,postgres,vscode,blender,tensorflow,pytorch,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,firebase,mysql,postgres,vscode,blender,pgadmin&theme=dark" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/divider.svg" width="100%" />
