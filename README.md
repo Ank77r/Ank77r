@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" />
 
-<img src="<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Frontend+Developer;Python+Developer;Former+DRDO+Research+Intern;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Building+Practical+Software+Solutions+🚀" />" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Frontend+Developer;Python+Developer;Former+DRDO+Research+Intern;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Building+Practical+Software+Solutions+🚀" />"
 
 </div>
 
