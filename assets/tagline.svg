@@ -1,0 +1,45 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tgGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00CFFF"/>
+      <stop offset="100%" stop-color="#7F5AF0"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(70,45)">
+    <polygon points="0,-26 22,-13 22,13 0,26 -22,13 -22,-13" fill="none" stroke="url(#tgGrad)" stroke-width="1.6" opacity="0.85">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="5" text-anchor="middle" font-family="Consolas, monospace" font-size="12" fill="url(#tgGrad)">&lt;/&gt;</text>
+  </g>
+
+  <g transform="translate(1130,45)">
+    <polygon points="0,-26 22,-13 22,13 0,26 -22,13 -22,-13" fill="none" stroke="url(#tgGrad)" stroke-width="1.6" opacity="0.85">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+    </polygon>
+    <text x="0" y="5" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="url(#tgGrad)">AI</text>
+  </g>
+
+  <circle cx="600" cy="20" r="3" fill="#00CFFF" opacity="0.8">
+    <animate attributeName="cy" values="20;12;20" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="'Fira Code',Consolas,monospace" font-size="21" text-anchor="middle" fill="#c9d1ff">
+    <g>
+      <text x="600" y="55" opacity="0">
+        Computer Science Engineer
+        <animate attributeName="opacity" values="0;1;1;0;0;0;0;0;0" keyTimes="0;0.03;0.28;0.33;1;1;1;1;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="55" opacity="0">
+        AI/ML Enthusiast
+        <animate attributeName="opacity" values="0;0;0;0;1;1;0;0;0" keyTimes="0;0.33;0.36;0.61;0.64;0.66;1;1;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="55" opacity="0">
+        Building Practical, Thoughtful Solutions
+        <animate attributeName="opacity" values="0;0;0;0;0;0;0;1;1;0;0" keyTimes="0;0.61;0.64;0.67;0.69;0.70;0.94;0.97;0.99;1;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+</svg>

@@ -1,0 +1,32 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00CFFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7F5AF0" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7F5AF0" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00CFFF" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path fill="url(#waveGrad2)">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite"
+        values="
+        M0,50 C150,20 300,80 450,50 C600,20 750,80 900,50 C1050,20 1200,80 1350,50 L1350,90 L0,90 Z;
+        M0,50 C150,80 300,20 450,50 C600,80 750,20 900,50 C1050,80 1200,20 1350,50 L1350,90 L0,90 Z;
+        M0,50 C150,20 300,80 450,50 C600,20 750,80 900,50 C1050,20 1200,80 1350,50 L1350,90 L0,90 Z"/>
+    </path>
+  </g>
+
+  <g>
+    <path fill="url(#waveGrad1)">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite"
+        values="
+        M0,65 C150,40 300,90 450,65 C600,40 750,90 900,65 C1050,40 1200,90 1350,65 L1350,90 L0,90 Z;
+        M0,65 C150,90 300,40 450,65 C600,90 750,40 900,65 C1050,90 1200,40 1350,65 L1350,90 L0,90 Z;
+        M0,65 C150,40 300,90 450,65 C600,40 750,90 900,65 C1050,40 1200,90 1350,65 L1350,90 L0,90 Z"/>
+    </path>
+  </g>
+</svg>
