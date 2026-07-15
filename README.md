@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/Ank77r/Ank77r/main/assets/banner.png" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;Frontend+Developer;Python+Developer;Former+DRDO+Research+Intern;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Building+Practical+Software+Solutions+🚀" />"
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=👋+Hello,+I'm+Ankur+Pandey;Computer+Science+Engineer;Frontend+Developer;Python+Developer;Former+DRDO+Research+Intern;Machine+Learning+Enthusiast;Reinforcement+Learning+Explorer;UI%2FUX+%26+3D+Design+Enthusiast;Building+Practical+Software+Solutions+🚀" />
+</p>
 
 </div>
 
@@ -10,14 +12,22 @@
 
 # 🚀 About Me
 
-- 🎓 Final Year B.Tech Computer Science Engineering Student
-- 💻 Frontend Developer passionate about building modern and responsive web applications.
-- 🐍 Python Developer with an interest in automation and intelligent software.
-- 🤖 Exploring Machine Learning and Reinforcement Learning through practical projects.
-- 🛰️ Former DRDO Research Intern.
-- 🎨 Interested in UI/UX Design, 3D Design and Creative Development.
-- 🌱 Currently learning Full-Stack Development and expanding my AI knowledge.
+🚀 About Me
 
+🎓 Final Year B.Tech CSE Student
+
+💻 Frontend Developer passionate about building
+modern and responsive web applications.
+
+🐍 Python Developer with an interest in automation.
+
+🤖 Exploring Machine Learning and
+Reinforcement Learning.
+
+🛰 Former DRDO Research Intern.
+
+🎨 Passionate about UI/UX,
+3D Design and Creative Development.
 ---
 
 # 🛠️ Tech Stack
